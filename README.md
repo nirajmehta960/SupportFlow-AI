@@ -6,8 +6,6 @@
 
 SupportFlow AI analyzes a real-world customer support operation to uncover inefficiencies in how tickets are handled — from intake to resolution — and designs an AI-augmented workflow that reduces resolution times, eliminates routing errors, and improves customer satisfaction. The project combines data analysis, process redesign, and AI strategy to deliver a complete business case.
 
-**Target roles:** Data Analyst, Business Analyst, Technical Product Manager, Data Engineer — the structure and deliverables are designed to showcase skills relevant to all of these.
-
 ### Business Scenario
 
 A mid-size SaaS company (**TechServe Inc.**) with a 50-person support team handling 10,000+ tickets/month is experiencing:
@@ -30,7 +28,7 @@ Leadership wants to understand where AI can be integrated into the support workf
 
 ## Project Structure
 
-The project is organized by **capability** (similar to SavVio’s project scoping, data pipeline, model development, model deployment). Each capability has its own folder with a **README** (overview and deliverables) and an **IMPLEMENTATION_PLAN** (step-by-step tasks). Names are self-explanatory and role-relevant.
+The project is organized by **capability**. Each capability has its own folder with a **README** (overview and deliverables) and an **IMPLEMENTATION_PLAN** (step-by-step tasks). Names are self-explanatory and role-relevant.
 
 ```
 SupportFlow AI/
