@@ -8,3 +8,6 @@ data/**/*.csv
 data/**/*.parquet
 data/**/*.json
 .ipynb_checkpoints/
+**/data/**/*.csv
+**/data/**/*.parquet
+**/data/**/*.json
