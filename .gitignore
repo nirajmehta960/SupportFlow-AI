@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+data/**/*.csv
+data/**/*.parquet
+data/**/*.json
+.ipynb_checkpoints/
